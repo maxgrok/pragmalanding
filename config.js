@@ -7,7 +7,7 @@ module.exports = {
   siteDescription: 'Connecting Great People with Great Help.', // Website description used for RSS feeds/meta description tag.
   siteRss: '/rss.xml',
   siteFBAppID: '', // FB Application ID for using app insights
-  googleTagManagerID: '', // GTM tracking ID.
+  googleTagManagerID: 'UA-34842344-3', // GTM tracking ID.
   disqusShortname: 'gatsby-business-starter', // Disqus shortname.
   userName: 'Max Goodman',
   userTwitter: 'maxxgrok',
