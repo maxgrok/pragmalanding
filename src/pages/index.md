@@ -6,7 +6,7 @@ meta_description: >-
   Connecting Great People with Great Help.
 heading: Connecting Great People with Great Help.
 description: >-
-  We use intuitive, searchable maps to make help available now to great people who want it. 
+  We give you details on help available in your area, now, via a mobile and web app filled with details on food pantries, shelters, transitional housing programs, and other services in your area, as well as detailed reviews and verification of each helping organization listed. 
   
 offerings:
   blurbs:
