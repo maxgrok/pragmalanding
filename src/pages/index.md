@@ -3,7 +3,7 @@ templateKey: 'home-page'
 title: Pragma
 meta_title: Home | Pragma
 meta_description: >-
-  Connecting Great People with Great Help.
+  We give you details on help available in your area, now, via a mobile and web app filled with details on food pantries, shelters, transitional housing programs, and other services in your area, as well as detailed reviews and verification of each helping organization listed.
 heading: Connecting Great People with Great Help.
 description: >-
   We give you details on help available in your area, now, via a mobile and web app filled with details on food pantries, shelters, transitional housing programs, and other services in your area, as well as detailed reviews and verification of each helping organization listed. 
