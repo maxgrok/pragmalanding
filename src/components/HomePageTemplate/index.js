@@ -2,6 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Offerings from '../Offerings'
 import PropTypes from 'prop-types'
+import { Input, Button, Form } from 'semantic-ui-react'
 
 const HomePageTemplate = ({
   title,
@@ -27,6 +28,12 @@ const HomePageTemplate = ({
                   {title}
                 </h1> 
                 <hr />
+                <Form>
+                  <Input className="input" placeholder="I'm looking for" />
+                  <Input className="input" placeholder="Where?" />
+                  <Button onClick={(e)=> e.preventDefault()}>Search</Button>
+                </Form>
+                <h1 className="title" style={{"textAlign":"center"}}>Coming Soon!</h1>
               </div>
             </div>
           </div>

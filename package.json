@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-business",
-  "description": "Gatsby Business Website Starter",
-  "author": "Vaibhav Sharma",
+  "name": "Pragma",
+  "description": "Pragma",
+  "author": "Max Goodman",
   "version": "2.1.1",
   "license": "MIT",
   "scripts": {
@@ -45,6 +45,7 @@
     "react-ga": "^2.6.0",
     "react-helmet": "^5.2.0",
     "react-share": "^2.4.0",
+    "semantic-ui-react": "^0.87.2",
     "uglifyjs-webpack-plugin": "^2.1.1"
   },
   "remarkConfig": {
