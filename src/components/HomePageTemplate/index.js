@@ -29,8 +29,8 @@ const HomePageTemplate = ({
                 </h1> 
                 <hr />
                 <Form>
-                  <Input className="input" placeholder="I'm looking for" />
-                  <Input className="input" placeholder="Where?" />
+                  <Input disabled className="input" placeholder="I'm looking for" />
+                  <Input disabled className="input" placeholder="Where?" />
                   <Button onClick={(e)=> e.preventDefault()}>Search</Button>
                 </Form>
                 <h1 className="title" style={{"textAlign":"center"}}>Coming Soon!</h1>
