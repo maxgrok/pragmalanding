@@ -68,7 +68,7 @@ const HomePageTemplate = ({
                 <div>
                   <h2>Founder</h2>
                   <p><img src="/img/max.png" /></p>
-                </div>
+                </div>	
             </div>
           </div>
         </div>
